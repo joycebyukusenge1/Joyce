@@ -1,0 +1,53 @@
+body{
+  background-color: aqua;
+}
+.me{
+
+  justify-content: center;
+  text-align: center;
+  float: right;
+  border: 1px solid black;
+  color: white;
+  background-color: black;
+  border-radius: 12px;
+}
+.hell{
+  text-decoration: underline;
+}
+
+footer{
+  bottom: 0%;
+  padding: 15rem;
+
+
+}
+
+.Timer{
+
+  text-decoration: underline;
+  
+}
+.border{
+  border:  1px solid black;
+  width: 30rem;
+  background-color: black;
+  color: white;
+  border-radius: 12px;
+}
+
+.counter{
+  border: 1px solid black;
+  width: 30rem;
+  border-radius: 12px;
+  color: white;
+  background-color: rgb(0, 0, 0);
+}
+.txt{
+  border: 1px solid black;
+  padding: 12rem;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(236, 136, 13);
+  border-radius: 12px;
+
+}
